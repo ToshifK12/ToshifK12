@@ -19,5 +19,5 @@ My main tools are **Python, C++, JavaScript, TypeScript, React, Next.js, Supabas
 - I take mango lassi very seriously
 - I’ve definitely said “one more bug fix” and stayed up way too long
 - My projects usually start with “wait... what if I made this?”
-- I like anime, gaming, and hanging out with friends
+- I like Noah Kahan, gaming, and hanging out with friends
 - I learn best by building things, breaking them, and figuring out how to fix them
