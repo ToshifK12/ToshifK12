@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I’m currently working on **a grant-funded Residence Life Duty Log web app for Minot State University using Next.js, TypeScript, Supabase, PostgreSQL, and Vercel**. :chatgpt-content-reference{index="0"}<br><br>I’m looking to collaborate on **backend, distributed systems, full-stack, and applied AI projects**.<br><br>I’m looking for help with **scaling distributed systems, cloud architecture, and production-grade backend design**.<br><br>I’m currently learning **advanced data structures & algorithms, distributed systems, cloud deployment, and scalable backend engineering**.<br><br>Ask me about **Java, Python, Go, Spring Boot, Next.js, FastAPI, PostgreSQL, Redis, gRPC, RAG systems, and distributed systems**. :chatgpt-content-reference{index="1"}<br><br>Fun fact: **I built a distributed key-value store with Raft that survived random node failures with zero data loss across 3,286 writes.** :chatgpt-content-reference{index="2"}<br><br>For your GitHub profile, I especially like that **Fun fact** because it immediately shows engineering depth instead of using something generic like “I love coffee ”
+<br><br>I’m currently working on **a grant-funded Residence Life Duty Log web app for Minot State University using Next.js, TypeScript, Supabase, PostgreSQL, and Vercel**. :chatgpt-content-reference{index="0"}<br><br>I’m looking to collaborate on **backend, distributed systems, full-stack, and applied AI projects**.<br><br>I’m looking for help with **scaling distributed systems, cloud architecture, and production-grade backend design**.<br><br>I’m currently learning **advanced data structures & algorithms, distributed systems, cloud deployment, and scalable backend engineering**.<br><br>Ask me about **Java, Python, Go, Spring Boot, Next.js, FastAPI, PostgreSQL, Redis, gRPC, RAG systems, and distributed systems**. :chatgpt-content-reference{index="1"}<br><br>Fun fact: **I built a distributed key-value store with Raft that survived random node failures with zero data loss across 3,286 writes.** **Fun fact**“I love coffee ”
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=ToshifK12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
